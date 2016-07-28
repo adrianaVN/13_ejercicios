@@ -1,0 +1,10 @@
+.redonda{
+	border-radius: 100%;
+	width: 30%;
+	height: 30%;
+}
+
+*{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
